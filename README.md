@@ -6,7 +6,7 @@ This repository contains a case study on mortgage trading, focusing on predictin
 ![Screen Recording 2025-01-05 123017 (1)](https://github.com/user-attachments/assets/8759f600-80dd-4796-a964-81d1bd26ba7a)
 
 
-## Dataset Overview
+## Dataset Overview 
 The dataset includes features like `CreditScore`, `FirstPaymentDate`, `EverDelinquent`, and more. The goal is to predict delinquency (`EverDelinquent`) and, if delinquent, assess prepayment behavior.
 
 ## Understanding the Dataset
