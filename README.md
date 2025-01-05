@@ -141,11 +141,5 @@ This project demonstrates a systematic approach to predicting loan delinquency a
 + Push to the branch.
 + Open a Pull Request.
 
-## License
-This project is licensed under the MIT License.
-
-### Contact:
-- **[Email](loubnaboukayoua@gmail.com)** 
-- **[LinkedIn profile](www.linkedin.com/in/loubna-boukayoua)**
 
 Thank you for exploring this case study. Feedback and contributions are always welcome!
