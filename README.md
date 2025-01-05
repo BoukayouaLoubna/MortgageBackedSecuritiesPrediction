@@ -122,7 +122,7 @@ After evaluating the models on accuracy and F1-score, we found that **Naive baye
 ## Deployment
 1. **Flask**:
    + RESTful API for predictions.
-   + Check this repository: [link](https://github.com/najmaelboutaheri/MortgagePredictorApp)
+   + Check this repository: [link](https://github.com/BoukayouaLoubna/MortgagePredictorApp)
      
 ## Conclusion
 
@@ -145,7 +145,7 @@ This project demonstrates a systematic approach to predicting loan delinquency a
 This project is licensed under the MIT License.
 
 ### Contact:
-- **[Email](najma.elboutaheri@etu.uae.ac.ma)** 
-- **[LinkedIn profile](https://www.linkedin.com/in/najma-el-boutaheri-8185a1267/)**
+- **[Email](loubnaboukayoua@gmail.com)** 
+- **[LinkedIn profile](www.linkedin.com/in/loubna-boukayoua)**
 
 Thank you for exploring this case study. Feedback and contributions are always welcome!
