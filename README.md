@@ -2,7 +2,8 @@
 This repository contains a case study on mortgage trading, focusing on predicting loan delinquency and prepayment behavior.
 
 ## Architecture
-![Screen Recording 2025-01-01 203456 (3)](https://github.com/user-attachments/assets/d893f423-8962-48bb-a0f7-bb2610e54253)
+
+![Screen Recording 2025-01-05 123017 (1)](https://github.com/user-attachments/assets/8759f600-80dd-4796-a964-81d1bd26ba7a)
 
 
 ## Dataset Overview
